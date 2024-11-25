@@ -1,4 +1,4 @@
-# Dace Tomsone - galvenais virsraksts
+# Dāvids Uberts - galvenais virsraksts
 ## Otrais virsraksts
 - Saraksts 1
 - Saraksts 2
